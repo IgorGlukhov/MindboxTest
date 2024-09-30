@@ -1,0 +1,11 @@
+D:\Repos\MindBox\CalcAreaLib\bin\Debug\net8.0\CalcAreaLib.deps.json
+D:\Repos\MindBox\CalcAreaLib\bin\Debug\net8.0\CalcAreaLib.dll
+D:\Repos\MindBox\CalcAreaLib\bin\Debug\net8.0\CalcAreaLib.pdb
+D:\Repos\MindBox\CalcAreaLib\obj\Debug\net8.0\CalcAreaLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\MindBox\CalcAreaLib\obj\Debug\net8.0\CalcAreaLib.AssemblyInfoInputs.cache
+D:\Repos\MindBox\CalcAreaLib\obj\Debug\net8.0\CalcAreaLib.AssemblyInfo.cs
+D:\Repos\MindBox\CalcAreaLib\obj\Debug\net8.0\CalcAreaLib.csproj.CoreCompileInputs.cache
+D:\Repos\MindBox\CalcAreaLib\obj\Debug\net8.0\CalcAreaLib.dll
+D:\Repos\MindBox\CalcAreaLib\obj\Debug\net8.0\refint\CalcAreaLib.dll
+D:\Repos\MindBox\CalcAreaLib\obj\Debug\net8.0\CalcAreaLib.pdb
+D:\Repos\MindBox\CalcAreaLib\obj\Debug\net8.0\ref\CalcAreaLib.dll

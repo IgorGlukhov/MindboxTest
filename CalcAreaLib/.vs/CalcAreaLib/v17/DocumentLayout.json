@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\MindBox\\CalcAreaLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{192E4FA6-5A46-49E3-BC31-744696BF693B}|..\\CalcAreaLib.Test\\CalcAreaLib.Test.csproj|d:\\repos\\mindbox\\calcarealib.test\\libtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\AppData\\Local\\Temp\\7zOC7259435\\LibraryLogicTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192E4FA6-5A46-49E3-BC31-744696BF693B}|..\\CalcAreaLib.Test\\CalcAreaLib.Test.csproj|d:\\repos\\mindbox\\calcarealib.test\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|d:\\repos\\mindbox\\calcarealib\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|d:\\repos\\mindbox\\calcarealib\\calcarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|solutionrelative:calcarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|d:\\repos\\mindbox\\calcarealib\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|solutionrelative:ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|d:\\repos\\mindbox\\calcarealib\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|d:\\repos\\mindbox\\calcarealib\\calcarealib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|solutionrelative:calcarealib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192E4FA6-5A46-49E3-BC31-744696BF693B}|..\\CalcAreaLib.Test\\CalcAreaLib.Test.csproj|d:\\repos\\mindbox\\calcarealib.test\\calcarealib.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|d:\\repos\\mindbox\\calcarealib\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843BAA59-924B-44D3-BFD6-DE2E361F23C5}|CalcAreaLib.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryLogicTests.cs",
+              "DocumentMoniker": "C:\\Users\\1\\AppData\\Local\\Temp\\7zOC7259435\\LibraryLogicTests.cs",
+              "ToolTip": "C:\\Users\\1\\AppData\\Local\\Temp\\7zOC7259435\\LibraryLogicTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAGgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:33:55.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibTest.cs",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib.Test\\LibTest.cs",
+              "RelativeDocumentMoniker": "..\\CalcAreaLib.Test\\LibTest.cs",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib.Test\\LibTest.cs",
+              "RelativeToolTip": "..\\CalcAreaLib.Test\\LibTest.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA4wDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:59:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:39:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib\\IShape.cs",
+              "RelativeDocumentMoniker": "IShape.cs",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib\\IShape.cs",
+              "RelativeToolTip": "IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:33:39.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalcArea.cs",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib\\CalcArea.cs",
+              "RelativeDocumentMoniker": "CalcArea.cs",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib\\CalcArea.cs",
+              "RelativeToolTip": "CalcArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:46:57.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:34:59.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib.Test\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "..\\CalcAreaLib.Test\\GlobalUsings.cs",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib.Test\\GlobalUsings.cs",
+              "RelativeToolTip": "..\\CalcAreaLib.Test\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:04:11.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalcAreaLib",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib\\CalcAreaLib.csproj",
+              "RelativeDocumentMoniker": "CalcAreaLib.csproj",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib\\CalcAreaLib.csproj",
+              "RelativeToolTip": "CalcAreaLib.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T18:30:10.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalcAreaLib.Test",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib.Test\\CalcAreaLib.Test.csproj",
+              "RelativeDocumentMoniker": "..\\CalcAreaLib.Test\\CalcAreaLib.Test.csproj",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib.Test\\CalcAreaLib.Test.csproj",
+              "RelativeToolTip": "..\\CalcAreaLib.Test\\CalcAreaLib.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T19:02:45.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Repos\\MindBox\\CalcAreaLib\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "D:\\Repos\\MindBox\\CalcAreaLib\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:35:20.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
