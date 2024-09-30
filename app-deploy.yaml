@@ -1,0 +1,45 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-web-app
+spec:
+  replicas: 3  # Указываем 3 пода для стабильной нагрузки
+  selector:
+    matchLabels:
+      app: my-web-app
+  template:
+    metadata:
+      labels:
+        app: my-web-app
+    spec:
+      affinity:  # Настраиваем размещение подов на разных нодах
+        podAntiAffinity:  # Указываем антиприоритеты для подов
+          requiredDuringSchedulingIgnoredDuringExecution:
+            - labelSelector:
+                matchLabels:
+                  app: my-web-app
+              topologyKey: "kubernetes.io/hostname"  # Размещение на разных нодах
+      containers:
+        - name: my-web-app-container
+          image: my-web-app:latest 
+          resources:
+            requests:
+              cpu: "0.1"  # Начальные ресурсы для инициализации
+              memory: "128Mi"  # Фиксированное потребление памяти
+            limits:
+              cpu: "1"  # Ограничиваем CPU, чтобы не перегружать ноды
+              memory: "256Mi"  # Ограничиваем память
+          startupProbe:  # Проверяем, что приложение готово к работе
+            httpGet:
+              path: /health  # Путь для проверки готовности
+              port: 8080  # Порт, на котором работает приложение
+            initialDelaySeconds: 10  # Задержка перед первой проверкой
+            periodSeconds: 5  # Проверяем каждые 5 секунд
+            failureThreshold: 5  # Максимальное количество неудачных проверок перед перезапуском
+          readinessProbe:  # Проверяем готовность к обработке запросов
+            httpGet:
+              path: /ready  # Путь для проверки готовности
+              port: 8080  # Порт, на котором работает приложение
+            initialDelaySeconds: 15  # Задержка перед первой проверкой
+            periodSeconds: 5  # Проверяем каждые 5 секунд
+            failureThreshold: 3  # Максимальное количество неудачных проверок перед исключением из сервиса
